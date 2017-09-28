@@ -1,0 +1,16 @@
+.task{
+
+    margin: 30px auto;
+    padding: 7px;
+    color: #6d639a;
+    list-style-type: none;
+    border: 1px solid transparent;
+    position: relative;
+    height: 40px;
+}
+
+.task:hover{
+
+    cursor: pointer;
+    border: solid 1px;
+}

@@ -1,0 +1,46 @@
+*{
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.App{
+
+    padding: 20px;
+}
+
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    font-weight: 100;
+    color: #333;
+    border-color: #333;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+h1{
+    font-weight: 100;
+    text-align: center;
+}
+
+#root{
+
+    max-width: 700px;
+    margin: 60px auto 0 auto;
+    padding: 0px 20px;
+}
+
+.footer{
+
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    background: #fff;
+    padding: 2px;
+    text-align: center;
+}

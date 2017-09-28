@@ -1,0 +1,17 @@
+.task--creator label, .task--creator input {
+    display: block;
+    width: 100%;
+}
+
+.task--creator label {
+    margin-bottom: 3px;
+}
+
+.task--creator input {
+    background: transparent;
+    border: 1px solid #d63f74;
+    padding: 7px 10px;
+    color: #333;
+    vertical-align: middle;
+    height: 40px;
+}
